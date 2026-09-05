@@ -697,9 +697,6 @@ After completing this experiment, the following concepts were implemented and un
 
 Computer Science Student
 
-**GitHub:** [@navadeepchn-arch](https://github.com/navadeepchn-arch)
-
----
 
 ## ⭐ Experiment Summary
 
