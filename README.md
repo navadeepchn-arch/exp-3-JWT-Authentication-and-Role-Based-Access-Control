@@ -6,7 +6,7 @@
 
 **Live Demo:** https://exp-3-omega.vercel.app/
 
-**GitHub Repository:** (https://github.com/navadeepchn-arch/exp-3-JWT-Authentication-and-Role-Based-Access-Control)
+**GitHub Repository:** https://github.com/navadeepchn-arch/exp-3-JWT-Authentication-and-Role-Based-Access-Control
 
 
 ## 📌 Project Overview
@@ -621,10 +621,10 @@ npm run build
 The application is deployed using **Vercel**.
 
 **Live Demo:**  
-[https://exp-3-omega.vercel.app/login](https://exp-3-omega.vercel.app/login)
+https://exp-3-omega.vercel.app/
 
 **GitHub Repository:**  
-[https://github.com/navadeepchn-arch/exp-3-JWT-Authentication-and-Role-Based-Access-Control](https://github.com/navadeepchn-arch/exp-3-JWT-Authentication-and-Role-Based-Access-Control)
+https://github.com/navadeepchn-arch/exp-3-JWT-Authentication-and-Role-Based-Access-Control
 
 ---
 
