@@ -4,7 +4,7 @@
 
 > A React-based authentication and authorization system demonstrating JWT Authentication, Redux Toolkit state management, Protected Routes, and Role-Based Access Control (RBAC).
 
-**Live Demo:** (https://exp-3-omega.vercel.app/login)
+**Live Demo:** https://exp-3-omega.vercel.app/
 
 **GitHub Repository:** (https://github.com/navadeepchn-arch/exp-3-JWT-Authentication-and-Role-Based-Access-Control)
 
